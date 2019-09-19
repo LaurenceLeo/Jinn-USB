@@ -15,7 +15,7 @@ def createShortcut(codeFolder='', python=''):
         shell = Dispatch('WScript.Shell')
         desktop = shell.SpecialFolders('Desktop')
         # print(desktop)
-        path = os.path.join(desktop, 'Jinnww.lnk')
+        path = os.path.join(desktop, 'Jinn.lnk')
         # print(path)
         argument = 'home.py'
         # print(argument)

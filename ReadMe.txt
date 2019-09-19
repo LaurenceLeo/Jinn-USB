@@ -1,6 +1,6 @@
 Hey Ben
 
-This USB stick should make updating your Jinn much easier. If anything goes wrong me and Hes "should" be able to use it to help you.
+This USB stick should make updating your Jinn much easier. If anything goes wrong Hes or I "should" be able to use it to help you.
 
 It downloads the latest copy of Jinn from your internet computer and then automatically updates your non-internet PC. The steps you need to follow are listed below.
 
@@ -24,7 +24,7 @@ ON YOUR OFFLINE PC:
 8. Close the Updater and remove the memory stick
 
 
-Your Jinn should now be upto date, if anything goes wrong contact me or Hez.
+Your Jinn should now be upto date, if anything goes wrong contact Hez or me.
 
 Thanks,
 Laurence Leo
